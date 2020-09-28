@@ -1,0 +1,66 @@
+.one{
+    background-color: darkcyan;
+    height: 300px;
+    width: 1000px;
+}
+.two{
+    background-color:darkmagenta;
+    height: 300px;
+    width: 300px;
+    float: right;
+}
+.three{
+    background-color: darkorange;
+    height: 100px;
+    width: 700px;
+    float: ;
+}
+.therteen{
+    background-color:yellowgreen;
+    height:200px;
+    width: 300px;
+    float: right;
+}
+.four{
+    background-color:darkorchid;
+    height: 100px;
+    width: 700px;
+}
+.five{
+    background-color:darkturquoise;
+    height: 100px;
+    width: 700px;
+}
+.tuwelv{
+    background-color:red;
+    height: 100px;
+    width: 200px;
+    float: right;
+}
+.six{
+    background-color:brown;
+    height: 50px;
+    width: 300px;
+}
+.seven{
+    background-color:burlywood;
+    height:100px;
+    width: 300px;
+}
+.eight{
+    background-color:black;
+    height: 100px;
+    width: 300px;
+}
+.ten{
+    background-color:midnightblue;
+    height: 80px;
+    width: 1000px;
+}
+.eleven{
+    background-color:yellowgreen;
+    height: 80px;
+    width: 200px;
+    float:left;
+}
+
